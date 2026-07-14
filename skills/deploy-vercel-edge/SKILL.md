@@ -1,3 +1,8 @@
+---
+name: deploy-vercel-edge
+description: Estratégias de cache (ISR) e restrições de bibliotecas incompatíveis com ambiente Edge.
+---
+
 # Padrão Arquitetural: Otimização de Deploy e Edge Computing
 
 Esta skill governa as regras de infraestrutura para implantações focadas em máxima performance e redução do Custo Por Aquisição (CPA) através da diminuição da latência.

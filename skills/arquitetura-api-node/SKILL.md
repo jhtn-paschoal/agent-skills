@@ -1,3 +1,8 @@
+---
+name: arquitetura-api-node
+description: Padrões de roteamento (Controller-Service-Repository) para backend em Node.js.
+---
+
 # Padrão Arquitetural: API Node.js (TypeScript + Prisma)
 
 1. Topologia de Diretórios (Camadas Estritas):

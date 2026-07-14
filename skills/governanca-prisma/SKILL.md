@@ -1,3 +1,8 @@
+---
+name: governanca-prisma
+description: Prevenção de consultas N+1, uso obrigatório de paginação e transações de banco de dados.
+---
+
 # Padrão Arquitetural: Governança de Banco de Dados e Prisma ORM
 
 Esta skill dita as regras de interação com o banco de dados via Prisma Client para evitar estrangulamento de memória e degradação de tempo de resposta.

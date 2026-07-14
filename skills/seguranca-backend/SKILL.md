@@ -1,3 +1,8 @@
+---
+name: seguranca-backend
+description: Autenticação RBAC, prevenção de Data Exposure (DTOs) e Rate Limiting.
+---
+
 # Padrão Arquitetural: Segurança de Backend e APIs
 
 Esta skill impõe diretrizes estritas de blindagem para rotas de servidor (Node.js/Next.js Route Handlers) contra interceptação, vazamento de dados e abusos de tráfego.

@@ -1,3 +1,8 @@
+---
+name: integracao-webhooks
+description: Desacoplamento assíncrono de payloads e imposição de tempo de resposta imediato (HTTP 200).
+---
+
 # Padrão Arquitetural: Resiliência em Integrações e Webhooks
 
 Esta skill impõe o desacoplamento de responsabilidades na recepção e processamento de dados externos para evitar falhas de timeout.

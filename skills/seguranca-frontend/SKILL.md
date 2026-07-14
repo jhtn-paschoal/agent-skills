@@ -1,3 +1,8 @@
+---
+name: seguranca-frontend
+description: Validação de schema com Zod, CSP obrigatório e proteção contra vetores XSS e CSRF.
+---
+
 # Padrão Arquitetural: Segurança e Validação de Fronteira
 
 Esta skill determina a camada de proteção exigida para qualquer interação que realize mutação de dados ou aceite entrada do usuário.

@@ -1,3 +1,8 @@
+---
+name: padrao-commits
+description: Aplicação inegociável de Conventional Commits para rastreabilidade do histórico de versão.
+---
+
 # Padrão Arquitetural: Governança de Versionamento (Conventional Commits)
 
 Esta skill obriga o agente e o operador a manterem uma árvore de commits rastreável, semântica e automatizável, impedindo mensagens de versão ambíguas.

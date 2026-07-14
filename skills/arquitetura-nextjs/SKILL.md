@@ -1,3 +1,8 @@
+---
+name: arquitetura-nextjs
+description: Padrões de renderização (App Router), isolamento de Client Components e Code Splitting.
+---
+
 # Padrão Arquitetural: Next.js (App Router)
 
 Esta diretriz substitui abstrações genéricas e impõe a engenharia de alta performance para aplicações web no contexto atual.
